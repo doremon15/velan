@@ -625,4 +625,4 @@ if(cmd === `${prefix}new`){
                 closeChannel.send(closed)
     };					   
 })
-bot.login(token);
+bot.login("NzQ1MTg1MzM0MzcwNzYyODQy.XzuF7A.GKuDy8Y5IoFO5qIX-rV0KjXRIKU");
